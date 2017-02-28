@@ -39,8 +39,8 @@ public class CreateAnimation extends Applet {
 	private final static Color BACKGROUND_COLORS[] = {
 		//new Color(0xFFDAB9), // peachpuff
 		//new Color(0xFFC0CB), // pink			
-		//new Color(0xFF99CC), // hot pink
-		new Color(0x0099CC), // sky blue
+		new Color(0xFF99CC), // hot pink
+		//new Color(0x0099CC), // sky blue
 		//new Color(0x9966CC), // lavender
 		//new Color(0xFFD700), // gold
 	};
