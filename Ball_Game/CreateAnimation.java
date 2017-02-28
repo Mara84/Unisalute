@@ -24,7 +24,7 @@ public class CreateAnimation extends Applet {
 	
 	private final static int INITIAL_DELAY = 1000;
 	private final static byte ROWS = 18;
-	private final static byte COLUMNS = 10;
+	private final static byte COLUMNS = 10; 
 	private final static int EMPTY = -1;
 	private final static int DELETED_ROWS_PER_LEVEL = 5;
 	private final static Color PIECE_COLORS[] = {
@@ -38,9 +38,9 @@ public class CreateAnimation extends Applet {
 	};
 	private final static Color BACKGROUND_COLORS[] = {
 		//new Color(0xFFDAB9), // peachpuff
-		new Color(0xFFC0CB), // pink			
+		//new Color(0xFFC0CB), // pink			
 		//new Color(0xFF99CC), // hot pink
-		//new Color(0x0099CC), // sky blue
+		new Color(0x0099CC), // sky blue
 		//new Color(0x9966CC), // lavender
 		//new Color(0xFFD700), // gold
 	};
