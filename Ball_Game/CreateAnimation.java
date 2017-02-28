@@ -9,7 +9,7 @@ a bug in this code causes a global nuclear war, I will
 take full responsibility and will fix the bug for free.
 */
 
-import java.awt.*;
+import java.awt.*; 
 import java.applet.*;
 import java.awt.event.*;
 import java.util.Random;
