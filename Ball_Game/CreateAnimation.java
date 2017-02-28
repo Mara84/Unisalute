@@ -19,7 +19,7 @@ import java.net.MalformedURLException;
 public class CreateAnimation extends Applet {
 	
 	//
-	// STATIC MEMBERS
+	// STATIC MEMBERS - GIT
 	//
 	
 	private final static int INITIAL_DELAY = 1000;
